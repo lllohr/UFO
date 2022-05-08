@@ -13,7 +13,11 @@ Some of the challenges I encountered was going through this module was learning 
 The results were a simple, yet an quite attractive website that the user could interact with. 
 
 !['UFO webpage'](https://github.com/lllohr/UFO/blob/24fb02b26f4cdc550f8579e35053658d8dad0ce2/images/UFO_top.png)
+This is the top of the website, with the image background. PRETTY! 
+
 !['User Interface'](https://github.com/lllohr/UFO/blob/24fb02b26f4cdc550f8579e35053658d8dad0ce2/images/UFO_filter.png)
+This is the user interface, where they can enter criteria to filter the results based on the date of the sighting, location of the sighting, and the description. 
+
 !['Filtered Results'](https://github.com/lllohr/UFO/blob/24fb02b26f4cdc550f8579e35053658d8dad0ce2/images/UFO_filtered_results.png)
 
 To use the website is simple! A user simply passes criteria into the search fields to filter the data. For example, in the image above, the date field was filtered by entering 1/4/2010 into the date search field. The change in that field triggered the table to be rebuilt with the new data that was filtered. 
