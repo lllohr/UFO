@@ -24,7 +24,7 @@ To use the website is simple! A user simply passes criteria into the search fiel
 
 ## Summary
 
-The project was a fun and challenging way to learn about the functionality of JavaScript and how it works with HTML and other web components. We were able to use existing data, create filters for data, and develop an attractive and dynamic user experience to display the data. It 
+The project was a fun and challenging way to learn about the functionality of JavaScript and how it works with HTML and other web components. We were able to use existing data, create filters for data, and develop an attractive and dynamic user experience to display the data. One thing I would change about this design is that I would add the "search" button back. I believe people expect a search button. I found that to execute the search, you had to click away from the data field, then click again. I felt like that was a bad way to design it. While I appreciated the simplicity of the design, I felt like there was something missing---another step that we could add. Maybe we could have a link to other resources? Link to the UFO site? Give a description of where the data was coming from? Perhaps, I would add an "About" page to the site. 
 
 
 
